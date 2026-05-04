@@ -4,8 +4,8 @@ A structured daily Java practice repository focused on building strong programmi
 
 ## About This Repository
 
-This repository documents my day-by-day Java learning journey through hands-on coding practice.  
-The goal is to strengthen core programming concepts, improve logic-building, and develop discipline through consistent daily progress.
+This repository documents my Java learning journey through hands-on coding practice.  
+The goal is to strengthen core programming concepts, improve logic-building, and develop discipline through consistent progress.
 
 ## What This Repository Contains
 
@@ -40,7 +40,7 @@ This repository will gradually include practice on:
 
 Consistency matters more than intensity.
 
-This repository is my commitment to improving every day through small but meaningful progress in Java.  
+This repository is my commitment to improving my progress in Java.  
 It helps me stay disciplined, track my journey, and continuously build confidence in coding.
 
 ## Repository Structure
